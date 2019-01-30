@@ -1,0 +1,8 @@
+h3{text-decoration: underline}
+body{background-image:url("images/marvel.jfif")}
+.myStyle{background-color: rgb(95, 189, 206); color:wheat}
+.customDiv{
+    background-color: grey;
+    border-style: ridge;
+
+}
